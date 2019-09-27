@@ -5,7 +5,7 @@ package Java_Sample;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello world.... whats app!";
     }
 
     public static void main(String[] args) {
